@@ -1,6 +1,6 @@
 # LeechNavigationNeuralFields
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qbeslab/LeechNavigationNeuralFields/blob/main/Simulating_Leech_Navigation_Using_Neural_Fields.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qbeslab/LeechNavigationNeuralFields/blob/Nichols-et-al-2024-Living-Machines/Simulating_Leech_Navigation_Using_Neural_Fields.ipynb)
 
 This repository holds code that performs simulations and generates figures to be published in
 
